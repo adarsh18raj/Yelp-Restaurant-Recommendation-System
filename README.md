@@ -22,9 +22,8 @@ The size of the Data is 6.84 Gb including the sub files:
 5. Tips Dataset (203 MB)
 6. Users Dataset (2.03 GB)
 
+In this project, we have focused on the following two objects:
 * Business objects list name, location, opening hours, category, average star rating, the number of reviews about the business and a series of attributes like noise level or reservations policy.
 * Review objects list a star rating, the review text, the review date, and the number of votes that the review has received.
 
-In this project, we have focused on these two types of objects. 
-
-If you have any query, feel free to contact me at adarsh18raj@gmail.com
+For any query, feel free to contact me at adarsh18raj@gmail.com
