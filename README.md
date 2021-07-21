@@ -10,7 +10,8 @@ The project is designed in a manner to search for and recommend best restaurants
 
 
 #### Data Description 
-The data used in this project is part of the Yelp Dataset Challenge (Round 12). The dataset consists of a set of JSON files that include business information, reviews, tips (shorter reviews), user information and check-ins. 
+The data used in this project is part of the Yelp Dataset Challenge (Round 12) downloaded from https://www.yelp.com/dataset. The dataset consists of a set of JSON files that include business information, reviews, tips (shorter reviews), user information and check-ins. 
+NOTE: The dataset keeps changing every year.
  
 The data consists of six sub datasets which describes the data with a brief information.
 
