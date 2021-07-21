@@ -1,7 +1,7 @@
 # Yelp Restaurant Recommendation System
 
 #### Problem Statement
-The project is designed in a manner to search for and recommend best restaurants in a city for different kinds of cuisines based on reviews given by customers.  
+The project is designed to search for and recommend best restaurants in a city for different kinds of cuisines based on reviews given by customers.  
 
 #### Objectives
 * To predict rating of restaurants listed in the Yelp dataset based on the reviews given by the users.
@@ -27,4 +27,4 @@ The size of the Data is 6.84 Gb including the sub files:
 
 In this project, we have focused on these two types of objects. 
 
-
+If you have any query, feel free to contact me at adarsh18raj@gmail.com
